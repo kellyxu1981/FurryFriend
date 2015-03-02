@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F5CECD98-4A31-412D-B923-2F230673C70F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FurryFriends</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5A5B88CC2ED58D397732CD9632FF11E16E18FB03</key>
+		<string>github.com:kellyxu1981/wireframe_Ypool.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FurryFriends/FurryFriends.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5A5B88CC2ED58D397732CD9632FF11E16E18FB03</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:kellyxu1981/wireframe_Ypool.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5A5B88CC2ED58D397732CD9632FF11E16E18FB03</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5A5B88CC2ED58D397732CD9632FF11E16E18FB03</string>
+			<key>IDESourceControlWCCName</key>
+			<string>2015_Jan</string>
+		</dict>
+	</array>
+</dict>
+</plist>
