@@ -5,4 +5,4 @@ FurryFriend is a simple demostration of using rotation and scale transformation,
 
 Time Spent: 2hrs
 
-[!Video Walkthrough](gif_furryFriend.gif)
+![Video Walkthrough](gif_furryFriend.gif)
